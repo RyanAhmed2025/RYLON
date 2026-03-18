@@ -1,0 +1,8 @@
+{
+  "name": "procreate",
+  "desc": "Developer profile creator and manager",
+  "version": "1.0.0",
+  "status": "installed",
+  "color": "#ff3daf",
+  "commands": ["create", "call", "edit", "list", "delete"]
+}

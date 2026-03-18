@@ -1,0 +1,27 @@
+{
+  "name": "rylon",
+  "version": "1.0.0",
+  "description": "Astral modular development framework",
+  "type": "module",
+  "main": "index.jsx",
+  "bin": {
+    "rylon": "./index.jsx"
+  },
+  "scripts": {
+    "start": "node --import tsx/esm index.jsx",
+    "dev":   "node --import tsx/esm index.jsx"
+  },
+  "dependencies": {
+    "ink": "^4.4.1",
+    "ink-text-input": "^5.0.1",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["cli", "rylon", "terminal", "ink", "framework"],
+  "license": "MIT"
+}
