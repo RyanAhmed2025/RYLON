@@ -7,7 +7,7 @@
                                  ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═╝  ╚══╝
                                                                          ```
 
-**Astral Modular Development Framework** · CLI · v1.0.0
+**RYLON-CLI - Astral Modular Development Framework** · CLI · v1.0.0
 
 ---
 
